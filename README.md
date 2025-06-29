@@ -45,7 +45,7 @@
 | Repo                                                                                                       | Tech                        | Brief                                       |
 | ---------------------------------------------------------------------------------------------------------- | --------------------------- | ------------------------------------------- |
 | [Personal\_Find\_Job\_Helper](https://github.com/Digital-Smart-Busan-Final-Team6/Personal_Find_Job_Helper) | Python · Django · LangChain | 이력서 기반 맞춤 공고 추천 & AI Q\&A 플랫폼 (팀 6 최종 프로젝트) |
-| (https://github.com/suhoon1020/Cloud_Web)                               | HTML5 · CSS · JSP · JavaScript              | 클라우드 기반 웹 개발 서비스 ( 교내 프로젝트 )                     |
+| [Cloud\ Web\ Project](https://github.com/suhoon1020/Cloud_Web)                               | HTML5 · CSS · JSP · JavaScript              | 클라우드 기반 웹 개발 서비스 ( 교내 프로젝트 )                     |
 
 더 많은 프로젝트는 👉 [Repositories](https://github.com/suhoon1020?tab=repositories) 확인!
 
