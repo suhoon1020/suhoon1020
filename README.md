@@ -9,13 +9,34 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack
 
-### Languages & Frameworks
+### Languages & Frameworks
 
-### Databases & Infra
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 
-### Tooling & Etc.
+### Databases & Query
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-16A45F?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Infra & Ops
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+### Tooling & Libraries
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-F7931E?style=for-the-badge\&logo=huggingface\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-FFDB0A?style=for-the-badge)
 
 ---
 
@@ -24,8 +45,6 @@
 | Repo                                                                                                       | Tech                        | Brief                                       |
 | ---------------------------------------------------------------------------------------------------------- | --------------------------- | ------------------------------------------- |
 | [Personal\_Find\_Job\_Helper](https://github.com/Digital-Smart-Busan-Final-Team6/Personal_Find_Job_Helper) | Python · Django · LangChain | 이력서 기반 맞춤 공고 추천 & AI Q\&A 플랫폼 (팀 6 최종 프로젝트) |
-| [HotelManagement](https://github.com/suhoon1020/HotelManagement)                                           | Java Swing                  | 간단 Hotel CRUD 데스크톱 프로그램                     |
-| [KIOSK](https://github.com/suhoon1020/KIOSK)                                                               | C++ MFC                     | 셀프 키오스크 UI 시뮬레이터                            |
 | [SBERT\_Resume\_Matcher](https://github.com/suhoon1020/SBERT_Resume_Matcher)                               | Python · SBERT              | 이력서–채용공고 유사도 모델 파인튜닝 실험                     |
 
 더 많은 프로젝트는 👉 [Repositories](https://github.com/suhoon1020?tab=repositories) 확인!
@@ -38,11 +57,7 @@
 
 ## ✍️ Learning & Study Log
 
-* **Spring Boot 3** 최적화 · JPA 성능 튜닝
-* **LangChain 0.2 + GPT‑4o** 커스텀 에이전트 개발
-* **Docker/Kubernetes** × GitHub Actions 로 CI/CD 자동화
-
-> 공부 기록은 Velog에 정리 중입니다 → [https://velog.io/@suhoon1020](https://velog.io/@suhoon1020) (업데이트 예정)
+* **LangChain 0.2 + GPT‑4o-mini** 커스텀 에이전트 개발
 
 ---
 
